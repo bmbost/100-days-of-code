@@ -10,4 +10,8 @@
 
 ### Day 2: January 3rd, 2017
 
-**Today's Progress:** Starting the "Responsive Design with Bootstrap" section of the Front End Development Certification track.
+**Today's Progress:** Completed the "Responsive Design with Bootstrap" section of the Front End Development Certification track as well as the "Gear Up for Success" section and three exercises into the "jQuery" section.
+
+**Thoughts:** Completed those sections faster than I thought I would. Also managed to surpass 100 exercises already.
+
+**Link to Work:** Completed up to "Target Elements by ID using jQuery" exercise on freeCodeCamp.
