@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 4: January 6th, 2017
+
+**Today's Progress:** Worked on the Tribute project for freeCodeCamp. Picked the topic of making a small tribute page to Nintendo. Hopefully will complete it tomorrow.
+
+**Thoughts:** Finding Creative Commons pictures for high-profile companies like Nintendo isn't easy.
+
+**Link to Work:** Have it saved locally for now, will upload to CodePen and Github tomorrow.
+
+
 ### Day 3: January 4th, 2017
 
 **Today's Progress:** Completed the jQuery section of freeCodeCamp, and now I'm to start the first challenge: build a tribute page on CodePen! Sadly, I don't have the time to actually start the challenge tonight, but will work on it first chance tomorrow.
@@ -7,6 +16,7 @@
 **Thoughts:** I already have some ideas in my head for what to base it on. Knowing me, I'll probably make it video game related, although I may base it on something else. A programming language, perhaps? There are many things I could pay tribute to in making a tribute page.
 
 **Link to work:** Completed the "jQuery" section of freeCodeCamp. Signed up for CodePen. Will have link to pen that my tribute page is being worked on tomorrow.
+
 
 ### Day 2: January 3rd, 2017
 
