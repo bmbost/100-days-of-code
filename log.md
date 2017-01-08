@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 5: January 7th, 2017
+
+**Today's Progress:** Completed the Tribute page! Managed to find a Nintendo logo I could use that was under public domain, then wrote the code and added a timeline in an unordered list as well as a link to the Wikipedia page for Nintendo.
+
+**Thoughts:** Went very well, although the only issue I had was the unordered list itself. I would have really liked to be able to center the list itself on the page, but not center the text (by that I mean, the list as a whole was center, but the text of each item in the list still aligned left with the dot). Couldn't figure out a way to do it, and just left it because it did make it work well on smaller, mobile screens. Tried to mess with padding, which worked, but made it horrible on mobile.
+
+**Link to Work:** http://codepen.io/Frenzyheart/pen/LxVvjL
+
+
 ### Day 4: January 6th, 2017
 
 **Today's Progress:** Worked on the Tribute project for freeCodeCamp. Picked the topic of making a small tribute page to Nintendo. Hopefully will complete it tomorrow.
