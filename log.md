@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 6: January 8th, 2017
+
+**Today's Progress:** I spent a lot of the day working on the portfolio project for freeCodeCamp. Took a while, but managed to complete it satisfying all of the user stories! I also got a good chunk into the JavaScript section of freeCodeCamp.
+
+**Thoughts:** I wouldn't say the portfolio is my best piece of work, but I like was I was able to do so far. And I can't wait to dive into JavaScript. I still got a lot to go in that section, though. Will see what the morrow may bring!
+
+**Link to work:** http://codepen.io/Frenzyheart/full/VPveQy/
+
+
 ### Day 5: January 7th, 2017
 
 **Today's Progress:** Completed the Tribute page! Managed to find a Nintendo logo I could use that was under public domain, then wrote the code and added a timeline in an unordered list as well as a link to the Wikipedia page for Nintendo.
