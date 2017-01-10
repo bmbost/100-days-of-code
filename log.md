@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 7: January 9th, 2017
+
+**Today's Progress:** Completed my 200th freeCodeCamp challenge, well into the JavaScript section and almost have it completed.
+
+**Thoughts:** I'm trying to fly through the practices, while still pick up the details. I just hope it's sinking in.
+
+**Link to work:** https://www.freecodecamp.com/bmbost
+
 ### Day 6: January 8th, 2017
 
 **Today's Progress:** I spent a lot of the day working on the portfolio project for freeCodeCamp. Took a while, but managed to complete it satisfying all of the user stories! I also got a good chunk into the JavaScript section of freeCodeCamp.
