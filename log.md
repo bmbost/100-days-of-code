@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 8: January 10th, 2017
+
+**Today's Progress:** Almost finished the JavaScript portion of freeCodeCamp.
+
+**Thoughts:** Couldn't get as much done as I wanted because I'm too tired and need sleep. Only 7 more challenges though and I'll be on to the next section!
+
+**Link to work:** https://www.freecodecamp.com/bmbost
+
 ### Day 7: January 9th, 2017
 
 **Today's Progress:** Completed my 200th freeCodeCamp challenge, well into the JavaScript section and almost have it completed.
