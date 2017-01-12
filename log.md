@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 9: January 11th, 2017
+
+**Today's Progress:** Completed the "Basic JavaScript" section of freeCodeCamp, as well as the "Object Oriented and Functional Programming" section. Started on the "Basic Algorithm Scripting" section, completing the Reverse a String and Factorialize a Number challenge.
+
+**Thoughts:** I sprinted through everything pretty quickly, and even knocked out the reverse a string challenge on the quick side. However, I had an issue with the factorialization problem. I originally wrote it as a recursive function call, which worked perfect. However, none of freeCodeCamp up to this point has went over recursion. So, I went back to do it again as a loop. Tried a for loop, but it would not work. Tried a while loop. Still wouldn't work. I was trying to count down from the parameter sent to the function down to 1. I had to reverse it to get the loop to work. 
+
+After that, I decided to post in the forum to see what my issue was to make it not even look at the loop when traversing one way, and be fine the other. It was while I was typing out the code that I realized: I had the comparison backwards, meaning it was always going to say the loop was not applicable. /doh /facepalm
+
+**Link to Work:** https://www.freecodecamp.com/bmbost
+
 ### Day 8: January 10th, 2017
 
 **Today's Progress:** Almost finished the JavaScript portion of freeCodeCamp.
