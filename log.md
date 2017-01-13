@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 10: January 12th, 2017
+
+**Today's Progress:** Completed two more of the algorithm challenges in freeCodeCamp, the Palindrome challenge and the longest word challenge. Worked on the "Title Case a Sentence" challenge but couldn't get it completed in time. EDIT (while writing no less): completed the "Title Case a Sentence" challenge.
+
+**Thoughts:** Regular expressions are weird to me and are going to take some getting used to. Also, the title case a sentence challenge is bugging me. I think I've got the gist of what I need to do to make it work, but my code is not cooperating. The way I understand it, if it works this way, is I will need to split the sentence into an array of words, then split each word into an array of characters---wait, I think I figured out my problem. (tests) Yes, I did. One more challenge completed. :-)
+
+**Link to Work:** https://www.freecodecamp.com/bmbost
+
 ### Day 9: January 11th, 2017
 
 **Today's Progress:** Completed the "Basic JavaScript" section of freeCodeCamp, as well as the "Object Oriented and Functional Programming" section. Started on the "Basic Algorithm Scripting" section, completing the Reverse a String and Factorialize a Number challenge.
