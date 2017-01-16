@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 12: January 15th, 2017
+
+**Today's Progress:** Completed three more challenges, only 4 to go.
+
+**Thoughts:** Had several snags, especially on the Chunky Monkey and the Mutations challenge. But, I got them to complete.
+
+**Link to work:** https://www.freecodecamp.com/bmbost
+
+### Day 11: January 14th, 2017
+
+**Today's Progress:** Skipped yesterday because I was falling asleep at the keyboard. :-/ Completed three more algorithm challenges on freeCodeCamp, and only have 7 more to go.
+
+**Thoughts:** These challenges can be hard, but so far I've been working through them like a champ. Just haven't been able to spend a lot of time on working on them, only a couple of hours a night.
+
+**Link to Work:** https://www.freecodecamp.com/bmbost
+
 ### Day 10: January 12th, 2017
 
 **Today's Progress:** Completed two more of the algorithm challenges in freeCodeCamp, the Palindrome challenge and the longest word challenge. Worked on the "Title Case a Sentence" challenge but couldn't get it completed in time. EDIT (while writing no less): completed the "Title Case a Sentence" challenge.
