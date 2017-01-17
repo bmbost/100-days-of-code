@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 13: January 16th, 2017
+
+**Today's Progress:** Completed one challenge. Just one. the "Falsy Bouncer" algorithm.
+
+**Thoughts:** I wanted to complete the four algorithm challenges I had left. But I had no time left after trying my hand at that one. And to think the solution was so simple, after reading over and over on what exactly .filter() did and seeing examples of how others used it in YouTube videos. I finally found the place in the docs where it said it would only send back variables that were true, and then it dawned on me: all the ones I'm trying to filter out are by definition false, so they will never be picked up by filter anyway. So, there it was. Took several hours to figure that one out.
+
+**Link to Work:** https://www.freecodecamp.com/bmbost
+
 ### Day 12: January 15th, 2017
 
 **Today's Progress:** Completed three more challenges, only 4 to go.
