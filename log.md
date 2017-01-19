@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 14: January 18th, 2017
+
+**Today's Progress:** Completed the last three challenges on freeCodeCamp's algorithm section.
+
+**Thoughts:** I should not be sacrificing sleep as much as I am. It's why I skipped yesterday; was just too tired to code. But now I have a goal completed! On to JSON APIs and Ajax!
+
+**Link to Work:** https://www.freecodecamp.com/bmbost
+
 ### Day 13: January 16th, 2017
 
 **Today's Progress:** Completed one challenge. Just one. the "Falsy Bouncer" algorithm.
