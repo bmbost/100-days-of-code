@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 15: January 20th, 2017
+
+**Today's Progress:** Skipped yesterday (zzzz again), and had to make today a minimal day of coding as I wasn't at home for most of it. However, I got my time in here at the last moment. Completed the JSON APIs and Ajax section of freeCodeCamp. Now I'm up to the first Intermediate front-end developer projects, Build a Random Quote Machine. Looks like fun.
+
+**Thoughts:** Need more sleep.
+
+**LInk to Work:** https://www.freecodecamp.com/bmbost
+
 ### Day 14: January 18th, 2017
 
 **Today's Progress:** Completed the last three challenges on freeCodeCamp's algorithm section.
