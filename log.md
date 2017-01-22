@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 16: January 21st, 2017
+
+**Today's Progress:** I started the four Intermediate projects today, and completed the first: build a random quote machine.
+
+**Thoughts:** It was a nice challenge to complete the quote generator. I had to look up a lot to get the jQuery working just right, but I took my time, working on one aspect at a time, and got it to working.
+
+**Link to Work:** http://codepen.io/Frenzyheart/full/WRjRbd/
+
 ### Day 15: January 20th, 2017
 
 **Today's Progress:** Skipped yesterday (zzzz again), and had to make today a minimal day of coding as I wasn't at home for most of it. However, I got my time in here at the last moment. Completed the JSON APIs and Ajax section of freeCodeCamp. Now I'm up to the first Intermediate front-end developer projects, Build a Random Quote Machine. Looks like fun.
