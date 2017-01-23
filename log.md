@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 17: January 22nd, 2017
+
+**Today's Progress:** I worked on the second intermediate coding challenge for freeCodeCamp, to build a weather app.
+
+**Thoughts:** Working with geolocation is not going as planned. I've fleshed out a lot of how the app will look, but getting the javascript to cooperate is proving difficult. Every time I try to get the latitude and longitude, it shows up as undefined. I tried to write the function differently thinking that was the issue, but now the function isn't called at all. I need to do some more research into how geolocation is retrieved, as the official documentation from Mozilla isn't proving to be enough.
+
+**Link to Work:** http://codepen.io/Frenzyheart/full/KambjV/
+
 ### Day 16: January 21st, 2017
 
 **Today's Progress:** I started the four Intermediate projects today, and completed the first: build a random quote machine.
