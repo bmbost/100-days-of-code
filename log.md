@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 1: January 29th, 2017
+
+**Today's Progress:** Thanks to this tweet from @MageeWorld ( https://twitter.com/MageeWorld/status/825786253802999808 ), I have found a new gameplan and started @codecademy's JS course to get me back on track. Completed up to starting the while loop section.
+
+**Thoughts:** That article is amazing and is just what I needed: a plan of action, and it's right. I loved freeCodeCamp's material, but by the time I got started on the intermediate coding projects, I felt like I was behind or something. So, a refresher (and hopefully a dab of things I didn't know) may just help me in the right direction so that I can jump back into freeCodeCamp's projects and complete the certificate. I'm only four sections away from it anyway, although there's still a lot of ground to cover.
+
+**Link to Work:** https://www.codecademy.com/bmbost
+
+--------------------------------------------------------------
+
 ### Day 17: January 22nd, 2017
 
 **Today's Progress:** I worked on the second intermediate coding challenge for freeCodeCamp, to build a weather app.
