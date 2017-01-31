@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 2: January 30th, 2017
+
+**Today's Progress:** Completed more of codecademy's JS course (earlier one, will start on newer one after).
+
+**Thoughts:** The repetition over things I've already completed under freeCodeCamp is helping cement concepts and syntax.
+
+**Link to Work:** https://www.codecademy.com/bmbost
+
 ### Day 1: January 29th, 2017
 
 **Today's Progress:** Thanks to this tweet from @MageeWorld ( https://twitter.com/MageeWorld/status/825786253802999808 ), I have found a new gameplan and started @codecademy's JS course to get me back on track. Completed up to starting the while loop section.
