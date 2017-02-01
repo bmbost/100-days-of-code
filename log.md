@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (from newest to oldest)
 
+### Day 3: January 31st, 2017
+
+**Today's Progress:** Completed more of codecademy's JS course, and also completed my 200th exercise (been a codecademy user for years).
+
+**Thoughts:** It was repetative, but fun.
+
+**Link to Work:** https://www.codecademy.com/bmbost
+
 ### Day 2: January 30th, 2017
 
 **Today's Progress:** Completed more of codecademy's JS course (earlier one, will start on newer one after).
